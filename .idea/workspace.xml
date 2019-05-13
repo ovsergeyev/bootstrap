@@ -2,7 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20cf801d-e111-41aa-89f7-dbc17bb1e3df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pug/includes/config.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/config.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/less/main.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gulp/tinypng/girl-4181395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/config/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/config/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/sass.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/sass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/includes/config.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/less/config/_config.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/includes/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/less/includes/mixins/_mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/includes/socials.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/less/includes/lib/_socials.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/lib/base-reset.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/less/includes/lib/_base-reset.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/lib/normalize.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/less/includes/lib/_normalize.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/lib/socials.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/main.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/_config.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/config/_config.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/lib/fontawesome.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/lib/__fontawesome.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/lib/socials.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/lib/_socials.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/mixins/advantage__li.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/mixins/product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/advantage.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/breadcrumbs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/cart-buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/cart-table.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/check-register.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/check-wrap.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/copyright.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/deal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/features.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/feedback.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/logo.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/may-like.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-accoseriese.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-browse.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-deals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-featured.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-kids.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-man.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-women.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/offer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-box.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-box_product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-card.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-sort.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/promo.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/sale.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/slider.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/socials.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-price.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-size.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-trending.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/top-filter.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/checkout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/shoping-cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/templates/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/templates/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/sass/main.sass" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +101,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/includes/lib/_socials.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pug/includes/config.pug">
+        <entry file="file://$PROJECT_DIR$/src/sass/includes/lib/_normalize.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/main.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp/tasks/watch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp/tasks/serve.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp/tasks/sass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp/tasks/less.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -48,9 +183,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>margin-top</find>
+      <find>@</find>
+      <find>}</find>
+      <find>;</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>$</replace>
     </replaceStrings>
   </component>
   <component name="FrameworkCommandLineHistory">
@@ -70,19 +209,32 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/pug/pages/single.pug" />
-        <option value="$PROJECT_DIR$/src/pug/pages/index.pug" />
         <option value="$PROJECT_DIR$/src/pug/includes/config.pug" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/brand.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+        <option value="$PROJECT_DIR$/src/pug/mixins/product.pug" />
+        <option value="$PROJECT_DIR$/src/pug/templates/head.pug" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/less/config/_config.less" />
+        <option value="$PROJECT_DIR$/src/less/main.less" />
+        <option value="$PROJECT_DIR$/src/pug/includes/modules/menu.pug" />
+        <option value="$PROJECT_DIR$/src/pug/config/_config.pug" />
+        <option value="$PROJECT_DIR$/src/pug/includes/lib/__instuction.pug" />
+        <option value="$PROJECT_DIR$/src/pug/pages/index.pug" />
+        <option value="$PROJECT_DIR$/src/pug/includes/templates/head.pug" />
+        <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/src/sass/includes/lib/_base-reset.sass" />
+        <option value="$PROJECT_DIR$/src/sass/config/_config.sass" />
+        <option value="$PROJECT_DIR$/src/static/less/includes/lib/_normalize.less" />
+        <option value="$PROJECT_DIR$/src/sass/includes/mixins/_mixins.sass" />
+        <option value="$PROJECT_DIR$/src/sass/main.less" />
+        <option value="$PROJECT_DIR$/gulp/config/tasks.js" />
+        <option value="$PROJECT_DIR$/gulp/tasks/watch.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/sass/includes/lib/_socials.sass" />
+        <option value="$PROJECT_DIR$/gulp/tasks/less.js" />
+        <option value="$PROJECT_DIR$/gulp/tasks/sass.js" />
+        <option value="$PROJECT_DIR$/src/sass/main.sass" />
+        <option value="$PROJECT_DIR$/build/css/main.css" />
+        <option value="$PROJECT_DIR$/src/sass/includes/lib/_normalize.sass" />
       </list>
     </option>
   </component>
@@ -91,19 +243,48 @@
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -115,6 +296,13 @@
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -127,20 +315,95 @@
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="mixins" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\bootstrap\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\bootstrap\src\static" />
+      <recent name="D:\OSPanel\domains\bootstrap\src\less\includes\lib" />
+      <recent name="D:\OSPanel\domains\bootstrap\src\less\includes\mixins" />
+      <recent name="D:\OSPanel\domains\bootstrap\src\less\includes" />
+      <recent name="D:\OSPanel\domains\bootstrap\src\less\config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,12 +469,13 @@
       <workItem from="1557652551884" duration="2517000" />
       <workItem from="1557732054516" duration="27000" />
       <workItem from="1557732156192" duration="2609000" />
-      <workItem from="1557765258167" duration="380000" />
+      <workItem from="1557765258167" duration="11636000" />
+      <workItem from="1557780084832" duration="3153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6052000" />
+    <option name="totallyTimeSpent" value="20461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,13 +490,13 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.25716332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.260745" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.24659607" />
       <window_info id="Gulp" order="2" sideWeight="0.503268" side_tool="true" weight="0.24659607" />
       <window_info id="npm" order="3" sideWeight="0.50364965" side_tool="true" weight="0.24659607" />
       <window_info id="Favorites" order="4" sideWeight="0.50121653" side_tool="true" weight="0.24281392" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -242,7 +506,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3252688" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32258064" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -254,20 +518,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pug/pages/single.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pug/pages/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/pages/single.pug" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -275,27 +526,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/lib/_socials.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/mixins/advantage__li.pug" />
+    <entry file="file://$PROJECT_DIR$/src/pug/mixins/product.pug" />
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gulp/tinypng/girl-4181395.jpg" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/main.less">
+    <entry file="file://$PROJECT_DIR$/src/static/less/config/_config.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/modules/menu.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/config/_config.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/lib/__instuction.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/templates/head.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="n#block#1;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/includes/lib/_base-reset.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/pages/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/less/includes/lib/_normalize.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="184" column="2" selection-start-line="184" selection-start-column="2" selection-end-line="184" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/less/includes/lib/_socials.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/includes/mixins/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/config/_config.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/config/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/mixins/_bootstrap.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/undertaker/lib/parallel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/less.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/serve.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/sass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/includes/lib/_socials.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pug/includes/config.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="249">
+          <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/includes/lib/_normalize.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
         </state>
       </provider>
     </entry>
