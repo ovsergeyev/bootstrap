@@ -1,6 +1,6 @@
 module.exports = function () {
     $.gulp.task('sass', function () {
-        return $.gulp.src('src/sass/main.sass')
+        return $.gulp.src('src/scss/main.scss')
             .pipe($.plumber({
                 errorHandler: $.gp.notify.onError()
             }))

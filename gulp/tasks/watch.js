@@ -4,6 +4,6 @@ module.exports = function () {
         //$.gulp.watch('src/less/**/*.less', $.gulp.series('less'));
         $.gulp.watch('src/static/img/*', $.gulp.series('img:dev'));
         //$.gulp.watch('src/stylus/**/*.styl', $.gulp.series('stylus'));
-        $.gulp.watch('src/sass/**/*.sass', $.gulp.series('sass'));
+        $.gulp.watch('src/scss/**/*.scss', $.gulp.series('sass'));
     });
 }

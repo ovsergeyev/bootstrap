@@ -1,0 +1,12 @@
+//@import "config/_config";
+//@import "includes/mixins/_mixins";
+//@import "includes/lib/_socials";
+@import "includes/lib/bootstrap/_functions.scss";
+@import "includes/lib/bootstrap/_variables.scss";
+@import "includes/lib/bootstrap/mixins.scss";
+
+@include media-breakpoint-up(sm) {
+  .custom-class {
+    display: block;
+  }
+}
